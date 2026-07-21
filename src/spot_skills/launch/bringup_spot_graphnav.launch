@@ -30,6 +30,6 @@
     <param name="/spot/navigation/close_to_goal_rad" value="1.5708" />
 
     <!-- Filepath to the occupancy grid map to load from file -->
-    <param name="/spot/navigation/occ_grid_yaml" value="/docker/spot_skills/maps/Feb-3.yaml" />
+    <param name="/spot/navigation/occ_grid_yaml" value="" />
 
 </launch>
